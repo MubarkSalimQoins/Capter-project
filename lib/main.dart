@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/screens/categories_screns.dart';
+import 'app_data.dart';
 
 void main() {
   runApp(myapp());
