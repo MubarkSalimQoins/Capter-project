@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../models/trip.dart';
-//import '../widgets/trip_item.dart';
+import '../widgets/trip_item.dart';
 
 class CategoryTripsScreen extends StatefulWidget {
   static const screenRoute = '/category-trips'; // تم تصحيح الخطأ في اسم المسار
